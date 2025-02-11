@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flashcards>
+    <flashcard>
+        <question>What is the capital of Massachusetts?</question>
+        <answer>Boston</answer>
+    </flashcard>
+    <flashcard>
+        <question>What is the capital of California?</question>
+        <answer>Sacramento</answer>
+    </flashcard>
+    <flashcard>
+        <question>How many stars are on the American flag?</question>
+        <answer>50</answer>
+    </flashcard>
+    <flashcard>
+        <question>How many stripes are on the American flag?</question>
+        <answer>13</answer>
+    </flashcard>
+
+</flashcards>
